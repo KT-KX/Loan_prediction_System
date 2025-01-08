@@ -70,4 +70,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Open-source contributors for their valuable tools and frameworks.
 
 ## Contact
-For inquiries, please contact [Your Name or Email Here].
+For inquiries, please contact kuantian_procai@hotmail.com
